@@ -41,4 +41,4 @@ window.addEventListener("scroll", () => {
       link.classList.add("active");
     }
   });
-});
+ });
